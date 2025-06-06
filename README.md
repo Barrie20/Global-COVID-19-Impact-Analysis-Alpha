@@ -5,7 +5,7 @@ Hi, I'm Alpha Yerroh Barrie — a passionate data analyst and aspiring data scie
 🔬 Interests: Public health data, trend analysis, predictive modeling  
 📁 Featured Project: COVID-19 Global Impact Analysis – see below!
 
-Let's connect: [LinkedIn](#) | [Email](#)
+Let's connect: [LinkedIn](https://www.linkedin.com/in/alpha-yerroh-barrie-sl%F0%9F%87%B8%F0%9F%87%B1-485459115/) | [Email](yerrohbarrie06@gmail.com)
 
 # 🦠 COVID-19 Global Impact Analysis
 
@@ -35,4 +35,4 @@ This project explores the global spread and impact of the COVID-19 pandemic usin
 ### 💡 Conclusion
 This project shows how data science can help track and communicate the impact of global health crises. It reflects my ability to combine data wrangling, statistical thinking, and visualization into actionable insights.
 
-➡️ View full notebook [here](link-to-your-notebook-on-GitHub)
+➡️ View full notebook [here](https://github.com/Barrie20/Global-COVID-19-Impact-Analysis-Alpha/blob/main/Covid_19_data_analysis_Alpha_.ipynb)
